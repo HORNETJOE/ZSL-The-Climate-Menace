@@ -199,3 +199,6 @@ This week’s sprints first started with our group meeting and discussing what w
 |Combine all sections of the app, when all sections are done | 2 hours | Yes|
 
 
+### software analysis tools/techniques 
+## client meetup
+during thsi poject we had a meeeting with the client. we made our way to the client in October to discuess what the project will unclude. we disscused what changes needed to be made to the project to better suit the clients idea. This was done so that the finnished product was the best that we could do for the clients needs.
