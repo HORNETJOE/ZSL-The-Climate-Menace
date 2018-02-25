@@ -25,6 +25,8 @@ Matthew Sides - Lead programer
 Luke Shead - programer
 Sam Dearing - programer
 Luke Bruni - Lead deginer
+## the importance of group members
+having different group members is important while doing a project because each member can focus on different parts of the project to maximize the final product to excel in each part to the client. If there is no team dynamic in a team then each member/ the team will have trouble completing parts of the project that they might not be experienced in.
 
 ### Introduction
 
