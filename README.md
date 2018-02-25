@@ -19,6 +19,13 @@ Produced by Matthew Sides, Sam Dearing, LukeBruni, Luke Shead and Joe William
 
 ## GameOverview
 
+## group members and roles
+Joe Williams - programer
+Matthew Sides - Lead programer
+Luke Shead - programer
+Sam Dearing - programer
+Luke Bruni - Lead deginer
+
 ### Introduction
 
 This document specifies a design for the conceptual features and mechanics (gameplay) of a game with the provisional title “GreenHouse Menace”, commissioned by the Zoological Society of London. It is based on elements discussed in various meetings, held since 2nd October, between cliental (ZSL) and group members involving Matthew, Sam, Joe, Luke and Luke.
