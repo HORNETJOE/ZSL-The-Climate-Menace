@@ -78,6 +78,20 @@ Internet Connection: This is so we can be connected up to the internet, this is 
 
 On parts of the ZSL project, there were meetings on the project to show what the app was looking like and if it was going in the right direction of what they wanted. The feedback that our group got on the first pitch was very eye-opening as it showed us that we had been going in a wrong direction with our app. The feedback that we got that our app was not informative enough and interactive sides of it were lacking allowed us to look back at our app and make changes to the app to fit the clients needs. This included changing the interactive side of it completely as well as adding in more parts to make it more informational.
 
+## Qualitative and quantitative research
+
+When building the application, we needed to research whether people found the application fun and interactive, this meant that we would have to use surveys in order to find out the applications quality with multiple people. In order to do this we did two types of research, qualitative and quantitative research meant that we were able to get lots of information in order to improve the app. We invited people into the class to test our game.
+
+| Name          | Rating 1-10   | Other feedback  |
+| ------------- |:-------------:| ---------------:|
+|Ciaran Smith| 6 | The application looks good however needs to be a bit slower so I can take in the information|
+|Matthew Senior| 8 |  The information would clear and the drag and drop was fun, but the artstyle is a bit bland|
+|Michael Chhina| 4 | I found the artstyle bad as well as the information that it gave me, may need better explanation of what to do|
+|Mark Biswell| 3 | The artstyle is not very pleasing to look at and the information is not very suited for the purpose of the app | 
+
+Because of this feedback we were able to change the application to help meet not only the clients needs but all the user's needs as well. In order to make sure the changes were made properly, we devised more aims and objectives in order to allow the team focus only on what needed to be changed and not change things that didnt need to be. Because of this the application was improved successfully.
+
+
 ### Concept
 
 The aim is to produce a game which suits the client’s requirements, creating an educational application that is informative, engaging and interactive based on the proposed or pre-set subject (In this instance; Greenhouse gases, production, Manufacturing and the impact of said gases and manufacturing or production phases on the environment in addition to the influence on climate change). 
