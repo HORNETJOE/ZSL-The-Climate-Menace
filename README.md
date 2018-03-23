@@ -33,10 +33,6 @@ having different group members is important while doing a project because each m
 
 This document specifies a design for the conceptual features and mechanics (gameplay) of a game with the provisional title “GreenHouse Menace”, commissioned by the Zoological Society of London. It is based on elements discussed in various meetings, held since 2nd October, between cliental (ZSL) and group members involving Matthew, Sam, Joe, Luke and Luke.
 
-### Scope
-
-This documentation is meant to be read by programmers, artists and producers involved in the design implementation and testing of “GreenHouse Menace”. The App is for a target age of 12-15 year olds, along with this the app has to be very informative and inteactive, ZSL required these for the app to be successful.
-
 ### The Planning
 
 In order to get the correct product to the client, the team met up and made sure that we were all on the same page when it came to the same IDE's we would be using to the the right programming language and what timetable that we would have. We met on serveral occasions regarding points about the app and how it would work, the first meeting was for information on the project, this was followed by a pitch meeting, this was where we had a design for our app. Through our presentation we where able to accurately show how the app was going to work, this allowed for feedback in what was good and bad in our app and we where able to use that for improvement to the app.
@@ -44,6 +40,37 @@ In order to get the correct product to the client, the team met up and made sure
 Before meetings there where some issues with the powerpoint presentation as it had been created in google docs then transferred over to Microsoft PowerPoint, however those problems where managed to be fixed before the pitch had started. As well as this the group made handouts for the clients to make sure that any information that was missed or not communicated properly would still be showed to the client. With these handouts we where able to resolve an issue with the app before it was too late to have any big inpact on the design process.
 
 After meeting we made sure to cover all of the risks and problems that we could encounter on the project. For example if someone was to have issues with a certain part of building the program, would there be help from the team and if so, was there flexability within the group to help. We took these risk into consideration and tried to make technical solutions to each of them. With us doing this it meant that most of the risks that could have been prevented were, this process saved much time and recources and allowed us to use our time much more effectively in the project.
+
+## Cost
+£39 Unity licence
+Cost of our tutor getting mini-van licence so we can visit ZSL Whipsnade to present our app
+Around £500 per member for a desktop computer, keyboard and mouse to complete tasks
+£20 for any needed assets for our app to make it look more appealing to ZSL
+
+## Scope
+
+This documentation is meant to be read by programmers, artists and producers involved in the design implementation and testing of “GreenHouse Menace”. The App is for a target age of 12-15 year olds, along with this the app has to be very informative and inteactive, ZSL required these for the app to be successful.
+
+## Time
+We were given the first breif from ZSL on the 2nd of October and we have until the 7th of November where we will be presenting the final demo for our app.
+
+## How we will Assure Quality
+We will assure quality in our app, by first creating a detailed development plan in the form of a gantt chart, this is so we can assure that we know how much time we should be spending on each task, meaning that we manage our time effectively and allows us to be aware when we are falling behind. Another way we will assure quality is by vigorously testing our app once we feel development has been completed. This will make sure we find and fix any errors or bugs within the app, to assure that it works properly when we present the app to ZSL.
+
+## Communication
+Our group will meet 3 times a week at the college, during these meetings we will discuss our progress on our tasks and what tasks we need to do for the upcoming week. While we are not at the college we will create a group on facebook for the purpose of discussing the project, we will use this group to ask for help on tasks. We will also create a google drive so that we can share the work we complete, this will allow us to use any work that is needed for other tasks and assure we are all working up to date.
+
+## Risks
+Hardware Issues: During the development process some hardware of a computer that we are using may become faulty, this would massively delay development as the user of that computer would not be able to complete any of their tasks until that computer is fixed. This delay could prevent us from completing this project for the deadline. To reduce this risk we will make sure that we are using multiple computers with the required software to get our work done, i.e. one computer and one computer at home, so that if an issue happens with one system work can continue on the other.
+Schedule Issues: Another risk is that we do not assign our time to do tasks correctly, this could be an issue because, for example, if we assign too little time for a task, we will obviously become behind schedule which could either lead to more time being wasted to correct the schedule, or we will have to skip tasks so we can keep to the schedule. None of these choices are ideal so it is ideal that our schedule is as realistic as possible. To assure we do not assign too little time for a task, we will make sure we give more than adequate time for each task, this makes sure that the tasks will be completed within the given timeframe and if completed with time to spare means that tasks can be worked on ahead of schedule.
+Personal Issues: During the development process a member/ members may be struck with illness or personal issues, this would result in them being unable to continue development until the issue was resolved, which could result in our app not being completed by the deadline set by the client. This risk will be reduced by making sure we have access to the work we are completing, this makes sure that if a member is disposed we can access their work and complete their tasks until they can work again. This may slow development time in the short-term but it assures that we can continue development in-spite of a member not being availible, instead of having to pause development until they can work again.
+
+## Resources
+Microsoft Powerpoint: We will need this software when we present our concept pitch and our final design and demo to the client. This software will be helpful as it will be able to present our pitches for the app in a clear and structured manner.
+Unity: Unity will be the software we use to construct our app. Unity is a game engine that will help us in the contruction of menus and scenes in our app.
+Microsoft Excel: This software is used for creating spreadsheets. We will use excel to create gantt charts to plan out the amount of time we will spend on each aspect of the software development, so we can manage our time effectively.
+At least 5 Desktop computers: This is so we can have a computer for each member of our team, this means that we can all be developing our app at the same time, increasing the effeciency of our work.
+Internet Connection: This is so we can be connected up to the internet, this is so we can research solutions to possible problems that could occur during the development process.
 
 
 
