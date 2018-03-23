@@ -215,8 +215,9 @@ during this project we had a meeting with the client. we made our way to the cli
 ## tools used
 there were many different tools used to communicate with the client and create the project. these include software such as text editors (Microsoft word), presentation editors (Microsoft PowerPoint), image editing software (photoshop) and unity to create the game.
 
-### critical reasoning 
+## critical reasoning 
 one area were critical reasoning was used during development was the educational expect of the project. During development the educational expect was pushed aside for more of a gameplay expect. after discussing with the client we decided that the educational expect of the project needs to be the main aspect of the app.
+
 ## Communication with ZSL
 A range of different communication styles and formats were used during the event to essentially better convey the groups ideas and points across to the client. For instance verbal communication, effective during the presentation as are groups presenter (in this instance Luke Shead) was concise, stating the ideas behind the design, a walkthrough of the given prototype also covering the parts omitted form the project due to time constraints.
 
