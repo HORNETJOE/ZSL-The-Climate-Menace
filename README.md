@@ -91,6 +91,19 @@ When building the application, we needed to research whether people found the ap
 
 Because of this feedback we were able to change the application to help meet not only the clients needs but all the user's needs as well. In order to make sure the changes were made properly, we devised more aims and objectives in order to allow the team focus only on what needed to be changed and not change things that didnt need to be. Because of this the application was improved successfully.
 
+## Analysing the data using tools and techniques
+
+After gathering the data with the survey, we needed to analyse the data and make sure that we can get the right aims and objectives.
+
+### Mindmaps
+for this we used mindmaps for the feedback to think about how to put it to use. We came together and looked at the feedback from the research and what to do with it. Not only for how we were going to analyse the data but also how we were going to solve the problems that the feedback gave us.
+
+### Effective analysis
+We created tables of possible solutions to the problems the feedback gave us and checked if the solutions would work based on how effective they would be. When using the mindmap we were able to draft some solutions to problems and see if they would work, here we analysed each solution from having a full re-build to attempting to change the whole style of the app, all solutions required work and time and in the end using this technique allowed us to find the best solution which was for us to all work on research and changing the information whilst Luke Bruni worked on the artstyle.
+
+### Drawing conclusions from the data
+
+The information we recived was very helpful when looking at the problems of our application, with the artstyle and information being the two points we needed to focus on, we needed look at the conclusions we could draw, with the effective analysis tool, we once again were able to look at all different conclusions to the feedback. By looking at the feedback and the issue with the artstyle of the game, we came to the conclusion that it needed to be changed as the data showed us that three out of the four people had a problem with the artstyle and as of such it should be changed. Because of this Luke Bruni did some changes to make it look more visually appealing and we changed the information to make it much clearer. 
 
 ### Concept
 
