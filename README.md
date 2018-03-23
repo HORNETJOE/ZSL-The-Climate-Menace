@@ -168,6 +168,9 @@ ZSL has given us the task of creating a web based application for children aged 
 ### Gantt chart
 ![First Gantt](https://github.com/RebootGames/ZSL-The-Climate-Menace/blob/master/Gantt%20Chart.PNG)
 
+### breakdonw chart
+![Breakdown chart](https://github.com/RebootGames/ZSL-The-Climate-Menace/blob/master/Gantt%20Chart.PNG)
+
 ### Schedule
 
 -Monday 2nd-Sunday 8th: Create Idea for project
