@@ -223,3 +223,15 @@ A range of different communication styles and formats were used during the event
 In Addition to verbal communication, Visual formats were also used. For example, power point, to provide an illustrative backdrop for the content of said presentation and support (back-up) the words spoken by the presenter. Another visual format also enforced was the use of a demo, prepared specifically for this scenario or event. Theses visual formats were essentially used effectively during the event as the inclusion of said demo provided quality assurance and a better illustration as to what the client might expect the finished application to function and look like aesthetically. Whilst the presentation and the way in which it was utilised was effective due to the following of the 6 slide rule, short and concise, stating what the presenting is verbally conveying. Further being used to engage the client, diverting attention off the presenter, thus alleviating the pressure.
 
 Such examples of communication used were email and face-to-face.
+
+## problem solving techniques
+This section will contain diffrent problem solving techniques that were used during the development of this project.
+
+#### Trial and error
+this stle of problem solving is to find a solution to a problem through repetetive trails to try to make the problem smaller and smaller until the problem is non-existent. This was done alot during the ZSL project and the biggist example was the final stages of the porject when it would not work on the tables. We each tried diffrent trails of the game with diffrent fixies to see if they would work. After some time a solution was found becuase of this problem solving technique.
+
+#### Data collection
+By making sure relevant information is collected, team members can develop a more suitable response. This problem solving technique was used shortly after a brief was recieved from ZSL, during requirement gathering making inquirys into what ZSL would expect, querying to essentially feed ideas, making suggestions and gaining a better understanding of the overall expectations to ensure that the response or presentation was what the client asked for.
+
+#### Problem breakdown
+problem breakdown is when a problem is when a problem is split into diffrent smaller problems to make them easier to handle and fix. This was a general solivtion to alot of problems that were brought up during the development stage of the project. It had sure that problems with the game were easy to fix and were not to big or overhealming to handle.
