@@ -33,7 +33,7 @@ having different group members is important while doing a project because each m
 
 This document specifies a design for the conceptual features and mechanics (gameplay) of a game with the provisional title “GreenHouse Menace”, commissioned by the Zoological Society of London. It is based on elements discussed in various meetings, held since 2nd October, between cliental (ZSL) and group members involving Matthew, Sam, Joe, Luke and Luke.
 
-### The Planning
+### Project Management Plan 
 
 In order to get the correct product to the client, the team met up and made sure that we were all on the same page when it came to the same IDE's we would be using to the the right programming language and what timetable that we would have. We met on serveral occasions regarding points about the app and how it would work, the first meeting was for information on the project, this was followed by a pitch meeting, this was where we had a design for our app. Through our presentation we where able to accurately show how the app was going to work, this allowed for feedback in what was good and bad in our app and we where able to use that for improvement to the app.
 
