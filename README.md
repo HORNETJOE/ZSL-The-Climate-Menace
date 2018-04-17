@@ -71,11 +71,20 @@ Another risk is that we do not assign our time to do tasks correctly, this could
 During the development process a member/ members may be struck with illness or personal issues, this would result in them being unable to continue development until the issue was resolved, which could result in our app not being completed by the deadline set by the client. This risk will be reduced by making sure we have access to the work we are completing, this makes sure that if a member is disposed we can access their work and complete their tasks until they can work again. This may slow development time in the short-term but it assures that we can continue development in-spite of a member not being availible, instead of having to pause development until they can work again.
 
 ## Resources
-Microsoft Powerpoint: We will need this software when we present our concept pitch and our final design and demo to the client. This software will be helpful as it will be able to present our pitches for the app in a clear and structured manner.
-Unity: Unity will be the software we use to construct our app. Unity is a game engine that will help us in the contruction of menus and scenes in our app.
-Microsoft Excel: This software is used for creating spreadsheets. We will use excel to create gantt charts to plan out the amount of time we will spend on each aspect of the software development, so we can manage our time effectively.
-At least 5 Desktop computers: This is so we can have a computer for each member of our team, this means that we can all be developing our app at the same time, increasing the effeciency of our work.
-Internet Connection: This is so we can be connected up to the internet, this is so we can research solutions to possible problems that could occur during the development process.
+#### Microsoft Powerpoint:
+We will need this software when we present our concept pitch and our final design and demo to the client. This software will be helpful as it will be able to present our pitches for the app in a clear and structured manner.
+
+#### Unity:
+Unity will be the software we use to construct our app. Unity is a game engine that will help us in the contruction of menus and scenes in our app.
+
+#### Microsoft Excel:
+This software is used for creating spreadsheets. We will use excel to create gantt charts to plan out the amount of time we will spend on each aspect of the software development, so we can manage our time effectively.
+
+#### At least 5 Desktop computers:
+This is so we can have a computer for each member of our team, this means that we can all be developing our app at the same time, increasing the effeciency of our work.
+
+#### Internet Connection:
+This is so we can be connected up to the internet, this is so we can research solutions to possible problems that could occur during the development process.
 
 
 
