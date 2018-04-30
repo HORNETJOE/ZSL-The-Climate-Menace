@@ -307,7 +307,7 @@ This week’s sprints first started with our group meeting and discussing what w
 ## Client meetup
 during this project we had a meeting with the client. we made our way to the client in October to discuss what the project will include. we discussed what changes needed to be made to the project to better suit the client’s idea. This was done so that the finished product was the best that we could do for the client’s needs. We interviewed the client to get their input on the project and to see if our project was lining up with their needs. later, in the project we showed them a prototype of the game to show the techniques and ideas that was put into the project.
 
-## Tools used
+## Tools and techniques used
 there were many different tools used to communicate with the client and create the project. these include software such as text editors (Microsoft word), presentation editors (Microsoft PowerPoint), image editing software (Photoshop) and unity to create the game. The software that was used needed to be investigated to make sure that it suitable for the business and for the requirements it provided.
 
 ### How Can Technical Solutions Be Compared
