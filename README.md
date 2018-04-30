@@ -295,6 +295,14 @@ In order to find the right tools to use for the client’s needs technical solut
 
 These technical solutions can be compared by seeing which outcome is better for the client by creating short test applications and demos of the product and seeing which is better suited to the client’s needs.
 
+Fitness: Is the software suitable for the current problem and is there a better solution to the problem.
+
+Maturity: It's risky to use the first version of anything, including software. Both hardware and software development companies are frequently pressured to release products before they are ready. This can lead to issues with the product being found by users after release.
+
+Support: Is there any backup for the system if it goes down. Support is needed in case of emergencies. It is also safe and secure to make sure these supports are in place just in case.
+
+License and support costs: The software and support for the technology used may pose a problem. The cost of upkeep and the use of software and the backup/support need to keep things together will need to be taken into account.
+
 ## Critical reasoning 
 one area was critical reasoning was used during development was the educational expect of the project. During development the educational expect was pushed aside for more of a gameplay expect. after discussing with the client we decided that the educational expect of the project needs to be the main aspect of the app.
 
