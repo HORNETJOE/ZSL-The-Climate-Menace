@@ -20,10 +20,10 @@ Produced by Matthew Sides, Sam Dearing, LukeBruni, Luke Shead and Joe Williams
 ## GameOverview
 
 ## Group members and roles
-Joe Williams - programer
-Matthew Sides - Lead programer
-Luke Shead - programer
-Sam Dearing - programer
+Joe Williams - programmer
+Matthew Sides - Lead programmer
+Luke Shead - programmer
+Sam Dearing - programmer
 Luke Bruni - Lead designer
 
 ## The importance of group members
@@ -31,19 +31,19 @@ having different group members is important while doing a project because each m
 
 ### Introduction
 
-This document specifies a design for the conceptual features and mechanics (gameplay) of a game with the provisional title “GreenHouse Menace”, commissioned by the Zoological Society of London. It is based on elements discussed in various meetings, held since 2nd October, between cliental (ZSL) and group members involving Matthew, Sam, Joe, Luke and Luke.
+This document specifies a design for the conceptual features and mechanics (gameplay) of a game with the provisional title “Greenhouse Menace”, commissioned by the Zoological Society of London. It is based on elements discussed in various meetings, held since 2nd October, between cliental (ZSL) and group members involving Matthew, Sam, Joe, Luke and Luke.
 
 ### User stories and objectives
 
-With the project having quite a large scope, we needed to find a way to break up tasks in order to focus on individual sections of the project. In order to do this we split the project into epics and stories, what this meant was that the project was able to be looked at from the small tasks and problems rather than the entire project as a whole. Doing this helped us look at the requirements for the user and also the software requirements within the project, by looking at these things individually, we were able to focus on the project much easier.
+With the project having quite a large scope, we needed to find a way to break up tasks in order to focus on individual sections of the project. In order to do this, we split the project into epics and stories, what this meant was that the project was able to be looked at from the small tasks and problems rather than the entire project as a whole. Doing this helped us look at the requirements for the user and also the software requirements within the project, by looking at these things individually, we were able to focus on the project much easier.
 
 #### Epics
 
 Epics are usually a task or problem that outlines the big tasks within the project, these can be broken down into stories that can help solve the problem down by looking at the individual smaller problems in the epic. User stories are epics that have been broken down into smaller tasks.
 
-For example a project will be to build a car, the epics would be to build an engine, framework, tyres etc. The stories of the framework epic would be small tasks to help it be successful. For example I want to be able to fit 4 people in the car, this means that when planning it the teamm will look at this and make sure it is the right size. Another story could be I want the car to look nice, so the team will spend the next bit of time working on that specific point to make sure it meets a user's needs.
+For example, a project will be to build a car, the epics would be to build an engine, framework, tyres etc. The stories of the framework epic would be small tasks to help it be successful. For example, I want to be able to fit 4 people in the car, this means that when planning it the team will look at this and make sure it is the right size. Another story could be I want the car to look nice, so the team will spend the next bit of time working on that specific point to make sure it meets a user's needs.
 
-The epic of the project was to design an application that would be able to meet the users requirements to a certain standard. Because of this it meant that each requirement had to be looked at individually. This is where user stories where made, some examples of the user stories that were made was:
+The epic of the project was to design an application that would be able to meet the user’s requirements to a certain standard. Because of this it meant that each requirement had to be looked at individually. This is where user stories were made, some examples of the user stories that were made was:
 
 ##### I want to be able to navigate the menu by clicking onto it,
 
@@ -51,7 +51,7 @@ The epic of the project was to design an application that would be able to meet 
 
 ##### I want to be able to have an option that tells me what to do in case I don't understand,
 
-With these stories and many more we were able to have a look at all the user requirements and put them in their own tasks, which made us focus more on the individual tasks that were important to the requirements of the user and know exactly what software we needed to use in order to help us achieve them. Becuase of these stories and epics we were able to manage our time and efficiency onto what the user needed instead of what the team think are good to have.
+With these stories and many more we were able to have a look at all the user requirements and put them in their own tasks, which made us focus more on the individual tasks that were important to the requirements of the user and know exactly what software we needed to use in order to help us achieve them. Because of these stories and epics we were able to manage our time and efficiency onto what the user needed instead of what the team think are good to have.
 
 ### Project Management Plan 
 
@@ -69,7 +69,7 @@ Around £500 per member for a desktop computer, keyboard and mouse to complete t
 
 ## Scope
 
-This documentation is meant to be read by programmers, artists and producers involved in the design implementation and testing of “GreenHouse Menace”. The App is for a target age of 12-15 year olds, along with this the app has to be very informative and interactive, ZSL required these for the app to be successful.
+This documentation is meant to be read by programmers, artists and producers involved in the design implementation and testing of “Greenhouse Menace”. The App is for a target age of 12-15 year olds, along with this the app has to be very informative and interactive, ZSL required these for the app to be successful.
 
 ## Time
 We were given the first brief from ZSL on the 2nd of October and we have until the 7th of November where we will be presenting the final demo for our app.
