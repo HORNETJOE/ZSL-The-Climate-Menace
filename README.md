@@ -290,6 +290,9 @@ during this project we had a meeting with the client. we made our way to the cli
 ## tools used
 there were many different tools used to communicate with the client and create the project. these include software such as text editors (Microsoft word), presentation editors (Microsoft PowerPoint), image editing software (photoshop) and unity to create the game. The software that was used needed to be investigated to make sure that it suitable for the business and for the requirements it provided.
 
+### technical solutions 
+In order to find the right tools to use for the clients needs technical solutions need to be created for requirments that the client has requested. These technical solutions offer multible answers to the clients problems and gives the client and the developer multible choices on how to procced and which software to use. For example though testing diffrent software and applciation we came to the conclusion that unity was the bast choice to create the application in. The client had no input on the choice and gave us the choice of development software.
+
 ## critical reasoning 
 one area was critical reasoning was used during development was the educational expect of the project. During development the educational expect was pushed aside for more of a gameplay expect. after discussing with the client we decided that the educational expect of the project needs to be the main aspect of the app.
 
