@@ -319,7 +319,7 @@ These technical solutions can be compared by seeing which outcome is better for 
 
 Fitness: Is the software suitable for the current problem and is there a better solution to the problem.
 
-Maturity: It's risky to use the first version of anything, including software. Both hardware and software development companies are frequently pressured to release products before they are ready. This can lead to issues with the product being found by users after release.
+Maturity: Its normal in development that a very distant version of the application is used for the final product. Projects and applications go through multiple stages and versions before being finished. These final versions and normally majorly different from the first version of the application which is why the best version of the app is normally used at the final product.
 
 Support: Is there any backup for the system if it goes down. Support is needed in case of emergencies. It is also safe and secure to make sure these supports are in place just in case.
 
