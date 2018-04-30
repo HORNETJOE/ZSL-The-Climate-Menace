@@ -293,6 +293,8 @@ there were many different tools used to communicate with the client and create t
 ### technical solutions 
 In order to find the right tools to use for the client’s needs technical solutions need to be created for requirements that the client has requested. These technical solutions offer multiple answers to the client’s problems and gives the client and the developer multiple choices on how to proceed and which software to use. For example, though testing different software and application we came to the conclusion that unity was the best choice to create the application in. The client had no input on the choice and gave us the choice of development software.
 
+These technical solutions can be compaired by seeing which outcome is better for the client by creating short test applications and demos of the product and seeing which is better suited to the clients needs.
+
 ## critical reasoning 
 one area was critical reasoning was used during development was the educational expect of the project. During development the educational expect was pushed aside for more of a gameplay expect. after discussing with the client we decided that the educational expect of the project needs to be the main aspect of the app.
 
