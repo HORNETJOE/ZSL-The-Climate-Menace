@@ -105,6 +105,8 @@ When building the application, we needed to research whether people found the ap
 
 Because of this feedback we were able to change the application to help meet not only the clients needs but all the user's needs as well. In order to make sure the changes were made properly, we devised more aims and objectives in order to allow the team focus only on what needed to be changed and not change things that didnt need to be. Because of this the application was improved successfully.
 
+Because of this feedback we were able to change the application to help meet not only the clients needs but all the user's needs as well. In order to make sure the changes were made properly, we devised more aims and objectives in order to allow the team focus only on what needed to be changed and not change things that didnt need to be. Because of this the application was improved successfully.
+
 ## Analysing the data using tools and techniques
 
 After gathering the data with the survey, we needed to analyse the data and make sure that we can get the right aims and objectives.
