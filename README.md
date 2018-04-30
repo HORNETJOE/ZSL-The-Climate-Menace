@@ -45,6 +45,8 @@ For example, a project will be to build a car, the epics would be to build an en
 
 The epic of the project was to design an application that would be able to meet the user’s requirements to a certain standard. Because of this it meant that each requirement had to be looked at individually. This is where user stories were made, some examples of the user stories that were made was:
 
+#### Users stories
+
 ##### I want to be able to navigate the menu by clicking onto it,
 
 ##### I want to be able to go to whichever habitat in any order I want,
