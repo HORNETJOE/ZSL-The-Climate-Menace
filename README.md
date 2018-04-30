@@ -33,6 +33,26 @@ having different group members is important while doing a project because each m
 
 This document specifies a design for the conceptual features and mechanics (gameplay) of a game with the provisional title “GreenHouse Menace”, commissioned by the Zoological Society of London. It is based on elements discussed in various meetings, held since 2nd October, between cliental (ZSL) and group members involving Matthew, Sam, Joe, Luke and Luke.
 
+### User stories and objectives
+
+With the project having quite a large scope, we needed to find a way to break up tasks in order to focus on individual sections of the project. In order to do this we split the project into epics and stories, what this meant was that the project was able to be looked at from the small tasks and problems rather than the entire project as a whole. Doing this helped us look at the requirements for the user and also the software requirements within the project, by looking at these things individually, we were able to focus on the project much easier.
+
+#### Epics
+
+Epics are usually a task or problem that outlines the big tasks within the project, these can be broken down into stories that can help solve the problem down by looking at the individual smaller problems in the epic. User stories are epics that have been broken down into smaller tasks.
+
+For example a project will be to build a car, the epics would be to build an engine, framework, tyres etc. The stories of the framework epic would be small tasks to help it be successful. For example I want to be able to fit 4 people in the car, this means that when planning it the teamm will look at this and make sure it is the right size. Another story could be I want the car to look nice, so the team will spend the next bit of time working on that specific point to make sure it meets a user's needs.
+
+The epic of the project was to design an application that would be able to meet the users requirements to a certain standard. Because of this it meant that each requirement had to be looked at individually. This is where user stories where made, some examples of the user stories that were made was:
+
+I want to be able to navigate the menu by clicking onto it,
+
+I want to be able to go to whichever habitat in any order I want,
+
+I want to be able to have an option that tells me what to do in case I don't understand,
+
+With these stories and many more we were able to have a look at all the user requirements and put them in their own tasks, which made us focus more on the individual tasks that were important to the requirements of the user and know exactly what software we needed to use in order to help us achieve them. Becuase of these stories and epics we were able to manage our time and efficiency onto what the user needed instead of what the team think are good to have.
+
 ### Project Management Plan 
 
 In order to get the correct product to the client, the team met up and made sure that we were all on the same page when it came to the same IDE's we would be using to the right programming language and what timetable that we would have. We met on several occasions regarding points about the app and how it would work, the first meeting was for information on the project, this was followed by a pitch meeting, this was where we had a design for our app. Through our presentation we were able to accurately show how the app was going to work, this allowed for feedback in what was good and bad in our app and we were able to use that for improvement to the app.
