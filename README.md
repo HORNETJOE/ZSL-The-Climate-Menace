@@ -19,14 +19,14 @@ Produced by Matthew Sides, Sam Dearing, LukeBruni, Luke Shead and Joe Williams
 
 ## GameOverview
 
-## group members and roles
+## Group members and roles
 Joe Williams - programer
 Matthew Sides - Lead programer
 Luke Shead - programer
 Sam Dearing - programer
 Luke Bruni - Lead designer
 
-## the importance of group members
+## The importance of group members
 having different group members is important while doing a project because each member can focus on different parts of the project to maximize the final product to excel in each part to the client. If there is no team dynamic in a team, then each member/ the team will have trouble completing parts of the project that they might not be experienced in.
 
 ### Introduction
@@ -211,7 +211,7 @@ ZSL has given us the task of creating a web based application for children aged 
 ### Gantt chart
 ![First Gantt](https://github.com/HORNETJOE/ZSL-The-Climate-Menace/blob/master/Gantt%20Chart.PNG)
 
-### breakdown chart
+### Breakdown chart
 ![Breakdown chart](https://github.com/HORNETJOE/ZSL-The-Climate-Menace/blob/master/Burndown%20chart.jpg)
 
 ### Schedule
@@ -283,19 +283,19 @@ This week’s sprints first started with our group meeting and discussing what w
 |Combine all sections of the app, when all sections are done | 2 hours | Yes|
 
 
-### software analysis tools/techniques 
-## client meetup
+### Software analysis tools/techniques 
+## Client meetup
 during this project we had a meeting with the client. we made our way to the client in October to discuss what the project will include. we discussed what changes needed to be made to the project to better suit the client’s idea. This was done so that the finished product was the best that we could do for the client’s needs. We interviewed the client to get their input on the project and to see if our project was lining up with their needs. later, in the project we showed them a prototype of the game to show the techniques and ideas that was put into the project.
 
-## tools used
+## Tools used
 there were many different tools used to communicate with the client and create the project. these include software such as text editors (Microsoft word), presentation editors (Microsoft PowerPoint), image editing software (Photoshop) and unity to create the game. The software that was used needed to be investigated to make sure that it suitable for the business and for the requirements it provided.
 
-### technical solutions 
+### Technical solutions 
 In order to find the right tools to use for the client’s needs technical solutions need to be created for requirements that the client has requested. These technical solutions offer multiple answers to the client’s problems and gives the client and the developer multiple choices on how to proceed and which software to use. For example, though testing different software and application we came to the conclusion that unity was the best choice to create the application in. The client had no input on the choice and gave us the choice of development software.
 
 These technical solutions can be compared by seeing which outcome is better for the client by creating short test applications and demos of the product and seeing which is better suited to the client’s needs.
 
-## critical reasoning 
+## Critical reasoning 
 one area was critical reasoning was used during development was the educational expect of the project. During development the educational expect was pushed aside for more of a gameplay expect. after discussing with the client we decided that the educational expect of the project needs to be the main aspect of the app.
 
 ## Communication with ZSL
@@ -305,7 +305,7 @@ In Addition to verbal communication, Visual formats were also used. For example,
 
 Such examples of communication used were email and face-to-face.
 
-## problem solving techniques
+## Problem solving techniques
 This section will contain different problem solving techniques that were used during the development of this project.
 
 #### Trial and error
