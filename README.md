@@ -290,7 +290,7 @@ during this project we had a meeting with the client. we made our way to the cli
 ## Tools used
 there were many different tools used to communicate with the client and create the project. these include software such as text editors (Microsoft word), presentation editors (Microsoft PowerPoint), image editing software (Photoshop) and unity to create the game. The software that was used needed to be investigated to make sure that it suitable for the business and for the requirements it provided.
 
-### Technical solutions 
+### How Can Technical Solutions Be Compared
 In order to find the right tools to use for the client’s needs technical solutions need to be created for requirements that the client has requested. These technical solutions offer multiple answers to the client’s problems and gives the client and the developer multiple choices on how to proceed and which software to use. For example, though testing different software and application we came to the conclusion that unity was the best choice to create the application in. The client had no input on the choice and gave us the choice of development software.
 
 These technical solutions can be compared by seeing which outcome is better for the client by creating short test applications and demos of the product and seeing which is better suited to the client’s needs.
