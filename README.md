@@ -286,8 +286,9 @@ This week’s sprints first started with our group meeting and discussing what w
 ### software analysis tools/techniques 
 ## client meetup
 during this project we had a meeting with the client. we made our way to the client in October to discuss what the project will include. we discussed what changes needed to be made to the project to better suit the client’s idea. This was done so that the finished product was the best that we could do for the client’s needs. We interviewed the client to get their input on the project and to see if our project was lining up with their needs. later, in the project we showed them a prototype of the game to show the techniques and ideas that was put into the project.
+
 ## tools used
-there were many different tools used to communicate with the client and create the project. these include software such as text editors (Microsoft word), presentation editors (Microsoft PowerPoint), image editing software (photoshop) and unity to create the game.
+there were many different tools used to communicate with the client and create the project. these include software such as text editors (Microsoft word), presentation editors (Microsoft PowerPoint), image editing software (photoshop) and unity to create the game. The software that was used needed to be investigeted to make sure that it suitable for the buinsess and for the rrequirments it provided.
 
 ## critical reasoning 
 one area were critical reasoning was used during development was the educational expect of the project. During development the educational expect was pushed aside for more of a gameplay expect. after discussing with the client we decided that the educational expect of the project needs to be the main aspect of the app.
